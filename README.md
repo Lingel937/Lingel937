@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lingel937
-- 👀 I’m interested in Physics, Math and engineering
+- 👀 I’m interested in Physics, Math and Engineering
 - 🌱 I’m currently learning Java and R
-- 💞️ I’m looking to collaborate on projects to make the Hacker-/Makerspace a better place
+- 💞️ I’m looking to collaborate on projects to get connected with fun people around the world
 - 📫 Discord: <3Vale<3#4186 / Write me an email : valentin.lingelbach@gmail.com
 
 <!---
